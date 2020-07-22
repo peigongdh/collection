@@ -2,7 +2,7 @@
 #include <string.h>
 #include <stdint.h>
 
-#include "contextu.c"
+#include "contextu.h"
 
 
 int main(void) {

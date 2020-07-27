@@ -1,1 +1,6 @@
 .idea
+/vintage/context/CMakeFiles/
+/vintage/context/test_ctx
+/vintage/context/test_swap
+/vintage/context/CMakeCache.txt
+/vintage/context/cmake_install.cmake
